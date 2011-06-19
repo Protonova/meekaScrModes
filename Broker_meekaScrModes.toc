@@ -1,0 +1,8 @@
+## Interface: 40100
+## Title: Broker: |cffaaaaaameeka|rScrModes
+## Author: Protonova of Rexxar (US)
+## Notes: LDB which toggles between windowed mode and fullscreen mode.
+## Version: r1
+## OptionalDeps: LibStub.lua, CallbackHandler-1.0.lua, LibDataBroker-1.1.lua
+
+Embeds.xml
